@@ -1,10 +1,10 @@
 # Endtoend_kidney_disease_classification
-
+ # --------------------------------author::CHANDU-------------
 
 ## Workflows
 
 1. Update config.yaml
-2. Update secrets.yaml [Optional]
+2. Update secrets.yaml [Optional] 
 3. Update params.yaml
 4. Update the entity
 5. Update the configuration manager in src config
