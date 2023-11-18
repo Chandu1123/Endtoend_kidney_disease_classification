@@ -1,5 +1,13 @@
 # Endtoend_kidney_disease_classification
- # --------------------------------author::CHANDU-------------
+ # -------------author::CHANDU-------------
+
+
+
+DATA: you can download from the kaggle and here is the link
+
+link: https://www.kaggle.com/datasets/nazmul0087/ct-kidney-dataset-normal-cyst-tumor-and-stone
+
+(Accessed on 05-11-2023)
 
 ## Workflows
 
